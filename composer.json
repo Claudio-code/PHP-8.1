@@ -1,0 +1,15 @@
+{
+    "name": "claudio/php8.1new-features",
+    "autoload": {
+        "psr-4": {
+            "Claudiosilvajunior\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "claudio-code",
+            "email": "suporte2424@outlook.com"
+        }
+    ],
+    "require": {}
+}
